@@ -28,7 +28,7 @@ def search():
             try:
                 img = requests.get(url, timeout=2)
                 image = Image.open(BytesIO(img.content))
-                image.save("./" +search.replace(" ", "_") + "/" + str(i), image.format)
+                image.save("./" + search.replace(" ", "_") + "/" + str(i) + "." + str(image.format), image.format)
             except:
                 print("failed")
 
