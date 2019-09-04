@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f895f23-1157-42dc-8b8c-679a02cf482b" name="Default Changelist" comment="" />
+    <list default="true" id="7f895f23-1157-42dc-8b8c-679a02cf482b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/LP/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LP/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LP/10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LP/11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LP/12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LP/13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LP/15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LP/16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LP/17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LP/18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LP/2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LP/21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LP/22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LP/23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LP/24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LP/25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LP/27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LP/28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LP/4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LP/5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LP/6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LP/7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LP/8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LP/9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/مهران_مدیری/9" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +69,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1QNGmw3nl2pvF1Oh6TbNzGqYOrj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/main.py" />
   </component>
   <component name="RunDashboard">
@@ -66,5 +125,16 @@
       <updated>1567603802849</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

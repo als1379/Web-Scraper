@@ -14,7 +14,6 @@ def search():
         'Accept-Language': 'en-US,en;q=0.5'
     }
     r = requests.get("https://yandex.com/images/search", headers=headers, params=params)
-    print(r.headers)
     print(r.url)
     f = open("search.html", "w")
     f.write(r.text)
@@ -24,8 +23,8 @@ def search():
             'class': 'serp-item serp-item_type_search serp-item_group_search serp-item_pos_' + str(
                 i) + ' serp-item_scale_yes justifier__item i-bem'})
         for item in images:
-            print(item)
             url = str(item).split("url")[1].split("\"")[2]
+            print(url)
             try:
                 img = requests.get(url, timeout=2)
                 image = Image.open(BytesIO(img.content))
