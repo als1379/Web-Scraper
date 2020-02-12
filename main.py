@@ -18,8 +18,7 @@ def download(images, search):
             print("failed")
 
 
-def search():
-    search = input("search: ")
+def search(search):
     search = search.replace(" ", "_")
     params = {"text": search}
     if not os.path.isdir(search):
@@ -40,5 +39,5 @@ def search():
         with concurrent.futures.ThreadPoolExecutor() as executor:
             executor.map(lambda images: download(images, search), images)
 
-
-search()
+search_word = input("search: ")
+search(search_word)
